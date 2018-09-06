@@ -1,3 +1,14 @@
+# Prominent Notice
+
+These files have been changed, replaced, and customized for joyful use by Filestack, and this prominent notice has been added pursuant
+to the terms and conditions of the Apache License Section 4 Article b. Many thanks to the DocuAPI team for their original work from
+which this was forked and upon which this is based. While these changes are not intended to go upstream to the source project (as these
+changes are largely branding related), still any parts of this customization that others may find useful are available also under the
+terms of the Apache License.
+
+Trademarks, brand marks, logos, and other properties of Filestack remain the property of Filestack and are copyrighted - not for use
+by others without permission! This repository is the personal work of David Liedle, and is not an official Filestack project.
+
 **DocuAPI** is a beautiful multilingual API documentation theme for [Hugo](http://gohugo.io/). This theme is built on top of the beautiful work of [Robert Lord](https://github.com/lord) and others on the [Slate](https://github.com/lord/slate) project ([Apache 2 License](https://github.com/lord/slate/blob/master/LICENSE)).
 
 <br/>
@@ -61,7 +72,3 @@ With `make` and `fswatch` (OSX only, I believe) available, you can get a fairly 
 
 * `hugo server` in your Hugo site project.
 * `make serve` in the theme folder.
-
-
-
-
